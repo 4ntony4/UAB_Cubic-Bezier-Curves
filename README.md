@@ -6,7 +6,7 @@
 
 [PT] Este projeto foi realizado no âmbito da Unidade Curricular de **Computação Gráfica** da Licenciatura em Engenharia Informática da Universidade Aberta no ano letivo de 2021-22.
 
-## <a><img src="https://raw.githubusercontent.com/4ntony4/UAb/main/img/logos/arrow-keys-icon.png" alt="Arrow Keys" width="50"></a> Commands 
+## <img src="https://raw.githubusercontent.com/4ntony4/UAb/main/img/logos/arrow-keys-icon.png" alt="Arrow Keys" width="50"> Commands
             1 - Select Yellow Sphere
             2 - Select Red Sphere
             3 - Select Green Sphere
