@@ -1,0 +1,39 @@
+:root {
+    --default-color: cornsilk;
+    --default-width: 300px;
+}
+
+body {
+    margin: 0;
+    background-color: #000;
+	color: #fff;
+	font-family: Monospace;
+	font-size: 16px;
+    font-weight: bold;
+	line-height: 24px;
+}
+
+.info {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+	width: var(--default-width);
+	padding: 5px;
+	box-sizing: border-box;
+	text-align: left;
+    color: var(--default-color);
+    background-color: rgba(1, 1, 20, 0.7);
+}
+
+#sphereSelected {
+    top: 0px;
+    left: 0px;
+    color: var(--default-color);
+}
+
+#spherePosition {
+    top: 34px;
+    left: 0%;
+    padding: 0px;
+    white-space: pre;
+}
