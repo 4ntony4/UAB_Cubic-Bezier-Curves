@@ -1,6 +1,6 @@
 import * as THREE from 'https://unpkg.com/three@0.124.0/build/three.module.js';
 
-import { bezier3 } from '../bezier3.mjs';
+import { bezier3 } from './bezier3.mjs';
 
 class MyCubicBezierCurve3 extends THREE.Curve {
 
