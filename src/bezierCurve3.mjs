@@ -1,6 +1,6 @@
 import * as THREE from 'https://unpkg.com/three@0.124.0/build/three.module.js';
 
-function bezier3( bezierObj = { c0, c1, c2, c3, t } ) {
+function bezierCurve3( bezierObj = { c0, c1, c2, c3, t } ) {
 
     const result = new THREE.Vector3();
     
@@ -39,4 +39,4 @@ function correctObj( bezierObj ) {
              bezierObj.t <= 1) ? true : false;
 }
 
-export { bezier3 };
+export { bezierCurve3 };
