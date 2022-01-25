@@ -29,6 +29,7 @@ function bezier3( bezierObj = { c0, c1, c2, c3, t } ) {
 
 // check if type of properties in bezierObj are correct
 function correctObj( bezierObj ) {
+	
     return ( bezierObj.c0.isVector3 &&
              bezierObj.c1.isVector3 &&
              bezierObj.c2.isVector3 &&
